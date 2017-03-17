@@ -1,3 +1,3 @@
 # HIGH PERFORMANCE COMPUTING
 
-### Project on high performance computing (OpenMp, MPI and GPUs)
+### Project Gauss-Seidel iterative method 
