@@ -1,5 +1,5 @@
 
-## HIGH PERFORMANCE COMPUTING (OpenMp, MPI and GPU).
+## HIGH PERFORMANCE COMPUTING (OpenMP, MPI and GPU).
 
 ---------------------------------------
 ###  Gauss-Seidel iterative method 
