@@ -4,21 +4,13 @@
 ## Abstract
 -------
 
-The Gauss-Seidel method is very efficient for solving problems such as tightly-coupled constraints with possible redundancies. 
-However, the underlying algorithm is inherently sequential. A distributed memory parallel Gauss–Seidel 
-algorithm for linear algebraic
-systems is presented, in which a parameter is 
-introduced to adapt the algorithm to different distributed memory parallel architectures. 
-In this algorithm, the coefficient matrix and the right-hand side of the linear algebraic 
-system are first divided into row-blocks in the natural rowwise-order according to the performance of 
-the parallel architecture in use. And then these row-blocks are distributed among 
-local memories of all processors through torus-wrap mapping techniques. The solution iteration 
-vector is cyclically conveyed among processors at each iteration so as to decrease the communication.
-The algorithm is a true Gauss–Seidel algorithm which maintains the convergence rate of the serial 
-Gauss–Seidel algorithm and allows existing sequential codes to run in a parallel environment with a
-little investment in recoding.
+<p> we present parallel implementation of the Gauss-Seidel (GS) iterative algorithm for the solution of linear systems of equations  using MPI and GPGPU  parallel programming paradigms. In the distributed memory algorithmic approach (using MPI), the coefficient matrix and the right-hand side of the linear algebraic system are first divided into row-blocks in the natural rowwise-order. Thereafter the the row-blocks are distributed among local memories of all processors according to the torus-wrap mapping techniques. The solution iteration vector is cyclically conveyed among processors at each iteration so as to decrease the communication. The result of such approach is true parallel model with convergence rate as good as the sequential execution. This first approach  basically takes advantage  of the sparsity of the system to extract parallelism. </p>
 
-In this paper, we will also study several parallelization schemes for fully-coupled systems, 
-unable to be parallelized by existing methods, taking advantage of recent 
-many-cores architectures offering fast synchronization primitives.
 
+<p>In The second approach, we will  provide  parallelization scheme for fully-coupled systems through  the dense Gauss-Siedel approach which takes advantage of many-cores architectures (GPGPU)  offering fast synchronization primitives. 
+</p>
+
+<p> 
+Both strategies are evaluated through performance measurements on different high-performance computing architectures.
+
+</p>
