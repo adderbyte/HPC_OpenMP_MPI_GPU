@@ -1,0 +1,113 @@
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+224
+
+Total Implementation time:
+0.0003
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+704
+
+Total Implementation time:
+0.0004
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+1728
+
+Total Implementation time:
+0.0011
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+3584
+
+Total Implementation time:
+0.0027
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+7040
+
+Total Implementation time:
+0.0064
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+12288
+
+Total Implementation time:
+0.0126
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+19488
+
+Total Implementation time:
+0.0229
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+29696
+
+Total Implementation time:
+0.0391
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+41472
+
+Total Implementation time:
+0.0591
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+52800
+
+Total Implementation time:
+0.0840
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+60192
+
+Total Implementation time:
+0.1049
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+69120
+
+Total Implementation time:
+0.1311
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+69888
+
+Total Implementation time:
+0.1438
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+76608
+
+Total Implementation time:
+0.1685
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+83040
+
+Total Implementation time:
+0.1960
+
+--------------- Inside Gauss Siedel Function-------------------------------------------------------
+Total iterations for Gauss methods convergence
+156160
+
+Total Implementation time:
+0.3884
+slurmstepd: *** JOB 1286168 ON b006 CANCELLED AT 2017-05-22T16:25:05 DUE TO TIME LIMIT ***
