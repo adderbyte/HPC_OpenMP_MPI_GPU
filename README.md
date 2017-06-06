@@ -4,7 +4,7 @@
 ---------------------------------------
 ###  Gauss-Seidel iterative method 
 ----------------------------------------
-This project is about Parallelizing Gauss-Seidel Iterative method. To do this we make use of the inustrial standard libraries <i>  MPI,  and/or (OpenMp, GPU)</i> in C++/C  and  then do some performance analysis.
+This project is about Parallelizing Gauss-Seidel Iterative method. To do this we make use of the inustrial standard libraries <i>  MPI,  and/or OpenMp,GPU</i> in C++/C  and  then do some performance analysis.
 
 --------
 ## Background: Direct Method Or Gaussian Elimination
