@@ -18,8 +18,8 @@ algebraic system to be solved is large and sparse because the sought-after facto
 Direct methods are often too expensive in either computation time or computer memory requirements, or possible both.</p>
 
 <p>This is the 
-reason why the iterative methods, which are able to take advantage of sparse systems, are often preferable compared
-with the direct methods in engineering fields. Through iterative methods, an approximate solution within the error 
+ why the iterative methods, which are able to take advantage of sparse systems, are often preferable compared
+to  direct methods in engineering fields. Through iterative methods, an approximate solution within the error 
 tolerance could be obtained under the assumption that the algorithm is convergent. Among classical iterative methods, 
 the Gauss–Seidel method has several interesting properties. In general, if the Jacobi method also converges, 
 the Gauss–Seidel method will converge faster than the Jacobi method. Even though the SOR method with the optimal
